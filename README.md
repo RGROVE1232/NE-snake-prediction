@@ -1,4 +1,5 @@
 # AUTOMATIC VISUAL RECOGNITION OF NATIVE NEBRASKA SNAKE SPECIES
-## Ryleigh J. Grove
-### College of Agricultural Sciences and Natural Resources, University of Nebraska-Lincoln
+## Ryleigh J. Grove; College of Agricultural Sciences and Natural Resources, University of Nebraska-Lincoln
+Repository for the 2023 UCARE project, "AUTOMATIC VISUAL RECOGNITION OF NATIVE NEBRASKA SNAKE SPECIES" [under the advising of Dr. James Schnable and Mr. Dennis Ferraro], an interdisciplinary project merging current technological advances in agricultural practices with other branches of biological sciences.
+
 As an ongoing development for automation continues, new technology is being developed every day to lessen human interference. This being said, one issue that can be resolved is the misidentification of snake species. As one can predict, many species look visually similar to the untrained eye, so developing software to help non-professionals can bring awareness to the various species. The development of deep learning networks is vital to the improvement of image segmentation when data is being drawn for quantitative purposes. A variety of pre-made algorithms and applications for segmentation have been previously discussed in the literature, but many of them have not been implemented for image analysis on snakes. Such analysis can lead to more development in technologies used for snake identification between venomous versus non-venomous species. 
